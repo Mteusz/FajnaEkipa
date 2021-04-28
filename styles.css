@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Mandali&display=swap');
+
+body {
+    background-color: black;
+}
+
+div.container {
+    font-family: 'Mandali', sans-serif;
+    font-size: 26px;
+    color: white;
+    padding: 24% 0;
+    text-align: center;
+}
